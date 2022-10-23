@@ -70,7 +70,7 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 # Clone this project
 $ git clone https://github.com/agostinhomarcia/controle-financeiro.git
 # Access
-$ cd movies
+$ cd controle-financeiro
 # Install dependencies
 $ yarn or npm 
 # Run the project
