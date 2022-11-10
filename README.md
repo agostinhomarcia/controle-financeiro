@@ -13,7 +13,7 @@
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/agostinhomarcia/controle-financeiro?color=DC143C">
 
-  <img alt="License" src="https://img.shields.io/github/license/agostinhomarcia/react-shopping-cart?color=DC143C">
+  <img alt="License" src="https://img.shields.io/github/license/agostinhomarcia/controle-financeiro?color=DC143C">
 
    <img alt="Github issues" src="https://img.shields.io/github/issues/agostinhomarcia/controle-financeiro?color=DC143C" /> 
 
